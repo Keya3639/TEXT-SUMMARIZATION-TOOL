@@ -78,7 +78,7 @@ This project is especially useful for students, researchers, professionals, or a
 
 This tool offers a reliable and simple way to summarize large text inputs, saving time and increasing productivity. It serves as a solid foundation for more advanced summarization systems and can be further developed into a fully-featured NLP application.
 
-# OUTPUT:
+## OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/9f36016c-92b5-4b2f-ab67-ef8961b8d33b)
 
