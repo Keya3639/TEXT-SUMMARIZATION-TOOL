@@ -1,17 +1,4 @@
 # TEXT-SUMMARIZATION-TOOL
-
-*COMPANY* : CODTECH IT SOLUTIONS PVT.LTD
-
-*NAME* : KEYA KARUNAMOY DAS
-
-*INTERN ID* : CT12DN1213
-
-*DOMAIN* : ARTIFICIAL INTELLIGENCE 
-
-*DURATION* : 12 WEEKS 
-
-*MENTOR* : NEELA SANTHOSH KUMAR 
-
 ##
 The **Text Summarization Tool** is a Python-based application that automatically generates a concise summary of a long passage of text. Built using fundamental Natural Language Processing (NLP) techniques, the tool also performs basic topic detection by identifying the most frequently occurring significant word in the input text. It is designed to help users quickly grasp the key ideas of any document without reading it in its entirety.
 
