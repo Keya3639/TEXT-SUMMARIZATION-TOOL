@@ -1,5 +1,4 @@
 # TEXT-SUMMARIZATION-TOOL
-##
 The **Text Summarization Tool** is a Python-based application that automatically generates a concise summary of a long passage of text. Built using fundamental Natural Language Processing (NLP) techniques, the tool also performs basic topic detection by identifying the most frequently occurring significant word in the input text. It is designed to help users quickly grasp the key ideas of any document without reading it in its entirety.
 
 ## Overview
